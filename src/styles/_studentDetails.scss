@@ -1,0 +1,33 @@
+.studentDetails{
+    padding: 20px 30px;
+
+    &__name{
+        display: flex;
+        flex-direction: row;
+        color: #4B4B4B;
+
+        h3{
+            margin-left: 20px;
+        }
+    }
+
+    p{
+        font-size: 22px;
+    }
+
+    &__wash{
+        display: flex;
+        flex-direction: row;
+        margin: 20px 0px;
+        
+        p{
+            font-size: 18px;
+            margin: 0;
+
+            &:nth-child(2){
+                margin-left: 10px;
+                font-weight: 600;
+            }
+        }
+    }
+}

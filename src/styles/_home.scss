@@ -1,0 +1,27 @@
+.home{
+    display: flex;
+    flex-direction: column;
+    padding: 60px 30px;
+
+    &__welcome{
+        display: flex;
+        flex-direction: column;
+
+        h1{
+            color: #1C3496;
+            margin: 0;
+        }
+
+        p{
+            font-size: 16px;
+        }
+    }
+    &__courses{
+        margin: 20px 0px;
+
+        h2{
+            color: #1C3496;
+            margin: 0;
+        }
+    }
+}
