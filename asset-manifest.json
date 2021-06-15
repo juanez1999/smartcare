@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/smartcare/static/css/main.0fc5c8a0.chunk.css",
+    "main.js": "/smartcare/static/js/main.1fecf58a.chunk.js",
+    "main.js.map": "/smartcare/static/js/main.1fecf58a.chunk.js.map",
+    "runtime-main.js": "/smartcare/static/js/runtime-main.562355b7.js",
+    "runtime-main.js.map": "/smartcare/static/js/runtime-main.562355b7.js.map",
+    "static/js/2.23eee99b.chunk.js": "/smartcare/static/js/2.23eee99b.chunk.js",
+    "static/js/2.23eee99b.chunk.js.map": "/smartcare/static/js/2.23eee99b.chunk.js.map",
+    "index.html": "/smartcare/index.html",
+    "static/css/main.0fc5c8a0.chunk.css.map": "/smartcare/static/css/main.0fc5c8a0.chunk.css.map",
+    "static/js/2.23eee99b.chunk.js.LICENSE.txt": "/smartcare/static/js/2.23eee99b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.562355b7.js",
+    "static/js/2.23eee99b.chunk.js",
+    "static/css/main.0fc5c8a0.chunk.css",
+    "static/js/main.1fecf58a.chunk.js"
+  ]
+}
