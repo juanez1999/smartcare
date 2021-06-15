@@ -17,9 +17,9 @@ export const StudentDetails = ({idCourse}) => {
 
     AWS.config.update({
         region: "us-east-1",
-        endpoint: 'https://mfpyw0p834.execute-api.us-east-1.amazonaws.com/Prod/getData',
-        accessKeyId: "AKIAWDX66UL5Q4RRCWTT",
-        secretAccessKey: "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"
+        // endpoint: 'endpoint',
+        // accessKeyId: "aqui va el access key",
+        // secretAccessKey: "aqui va el secretaccess key"
     });
 
     var docClient = new AWS.DynamoDB.DocumentClient();
