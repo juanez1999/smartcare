@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/smartcare/static/css/main.0fc5c8a0.chunk.css",
-    "main.js": "/smartcare/static/js/main.48c2cd2e.chunk.js",
-    "main.js.map": "/smartcare/static/js/main.48c2cd2e.chunk.js.map",
+    "main.js": "/smartcare/static/js/main.8dae0e71.chunk.js",
+    "main.js.map": "/smartcare/static/js/main.8dae0e71.chunk.js.map",
     "runtime-main.js": "/smartcare/static/js/runtime-main.562355b7.js",
     "runtime-main.js.map": "/smartcare/static/js/runtime-main.562355b7.js.map",
-    "static/js/2.6f7b0b67.chunk.js": "/smartcare/static/js/2.6f7b0b67.chunk.js",
-    "static/js/2.6f7b0b67.chunk.js.map": "/smartcare/static/js/2.6f7b0b67.chunk.js.map",
+    "static/js/2.3e075687.chunk.js": "/smartcare/static/js/2.3e075687.chunk.js",
+    "static/js/2.3e075687.chunk.js.map": "/smartcare/static/js/2.3e075687.chunk.js.map",
     "index.html": "/smartcare/index.html",
     "static/css/main.0fc5c8a0.chunk.css.map": "/smartcare/static/css/main.0fc5c8a0.chunk.css.map",
-    "static/js/2.6f7b0b67.chunk.js.LICENSE.txt": "/smartcare/static/js/2.6f7b0b67.chunk.js.LICENSE.txt"
+    "static/js/2.3e075687.chunk.js.LICENSE.txt": "/smartcare/static/js/2.3e075687.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.562355b7.js",
-    "static/js/2.6f7b0b67.chunk.js",
+    "static/js/2.3e075687.chunk.js",
     "static/css/main.0fc5c8a0.chunk.css",
-    "static/js/main.48c2cd2e.chunk.js"
+    "static/js/main.8dae0e71.chunk.js"
   ]
 }
